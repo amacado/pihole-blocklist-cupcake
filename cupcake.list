@@ -1,7 +1,7 @@
 0.0.0.0 bild.de
 0.0.0.0 www.bild.de
 0.0.0.0 m.bild.de
-0.0.0.0 bild\.de$
+0.0.0.0 ||bild.de$
 0.0.0.0 focus.de
 0.0.0.0 www.focus.de
 0.0.0.0 t-online.de
